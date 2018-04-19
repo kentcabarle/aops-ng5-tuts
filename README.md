@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## 
+
+Day 1
+
+    Part 1 and 2 - Setup and Run
+    Part 3 Components
+    Part 4 Template and Stylings
+    Part 5 Event and Property Bindings
+
+Day 2
+
+    <Add here..>
