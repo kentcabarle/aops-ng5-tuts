@@ -38,4 +38,7 @@ Day 1
 
 Day 2
 
-    <Add here..>
+    Part 6 Angular Animation
+    Part 7 Using the Router
+    Part 8 Creating and using Services
+    Part 9 Pushing codes to Repository
